@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About me</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Lakshay Anand</h1>
+  <p>Hi, I'm Lakshay. I enjoy exploring technology, creating projects, and learning new skills that help me grow.</p>
+  <hr/>
+  <h2>My Interests</h2>
+  <p>I’m currently learning C++ and love exploring how software is built from the ground up. 
+     I’m also a big fan of movies, whether it’s classic dramas or the latest thrillers. 
+     Beyond tech and films, I enjoy travelling especially road trips to places, I've never been to before
+     and discovering new cultures, food, and experiences.
+</p>
+</body>
+</html>
